@@ -1,0 +1,6 @@
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/MyFirstApp/MyFirstApp/bin/Debug/MyFirstApp.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/MyFirstApp/MyFirstApp/bin/Debug/MyFirstApp.pdb
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.csprojAssemblyReference.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.pdb
