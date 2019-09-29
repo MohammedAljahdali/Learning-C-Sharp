@@ -1,0 +1,6 @@
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/DateAndTime/DateAndTime/bin/Debug/DateAndTime.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/DateAndTime/DateAndTime/bin/Debug/DateAndTime.pdb
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/DateAndTime/DateAndTime/obj/Debug/DateAndTime.csprojAssemblyReference.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/DateAndTime/DateAndTime/obj/Debug/DateAndTime.csproj.CoreCompileInputs.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/DateAndTime/DateAndTime/obj/Debug/DateAndTime.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/DateAndTime/DateAndTime/obj/Debug/DateAndTime.pdb

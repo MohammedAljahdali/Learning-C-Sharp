@@ -1,0 +1,6 @@
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintAge/PrintAge/bin/Debug/PrintAge.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintAge/PrintAge/bin/Debug/PrintAge.pdb
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintAge/PrintAge/obj/Debug/PrintAge.csprojAssemblyReference.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintAge/PrintAge/obj/Debug/PrintAge.csproj.CoreCompileInputs.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintAge/PrintAge/obj/Debug/PrintAge.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintAge/PrintAge/obj/Debug/PrintAge.pdb
