@@ -1,0 +1,6 @@
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ChangeOfPurchace/ChangeOfPurchace/bin/Debug/ChangeOfPurchace.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ChangeOfPurchace/ChangeOfPurchace/bin/Debug/ChangeOfPurchace.pdb
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ChangeOfPurchace/ChangeOfPurchace/obj/Debug/ChangeOfPurchace.csprojAssemblyReference.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ChangeOfPurchace/ChangeOfPurchace/obj/Debug/ChangeOfPurchace.csproj.CoreCompileInputs.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ChangeOfPurchace/ChangeOfPurchace/obj/Debug/ChangeOfPurchace.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ChangeOfPurchace/ChangeOfPurchace/obj/Debug/ChangeOfPurchace.pdb

@@ -1,0 +1,6 @@
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ForEach/ForEach/bin/Debug/ForEach.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ForEach/ForEach/bin/Debug/ForEach.pdb
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ForEach/ForEach/obj/Debug/ForEach.csprojAssemblyReference.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ForEach/ForEach/obj/Debug/ForEach.csproj.CoreCompileInputs.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ForEach/ForEach/obj/Debug/ForEach.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/ForEach/ForEach/obj/Debug/ForEach.pdb

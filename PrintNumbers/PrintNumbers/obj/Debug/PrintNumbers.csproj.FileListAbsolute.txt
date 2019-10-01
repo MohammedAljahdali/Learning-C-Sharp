@@ -1,0 +1,6 @@
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintNumbers/PrintNumbers/obj/Debug/PrintNumbers.csprojAssemblyReference.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintNumbers/PrintNumbers/obj/Debug/PrintNumbers.csproj.CoreCompileInputs.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintNumbers/PrintNumbers/bin/Debug/PrintNumbers.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintNumbers/PrintNumbers/bin/Debug/PrintNumbers.pdb
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintNumbers/PrintNumbers/obj/Debug/PrintNumbers.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/PrintNumbers/PrintNumbers/obj/Debug/PrintNumbers.pdb
