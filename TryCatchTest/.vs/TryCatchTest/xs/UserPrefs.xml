@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{D811AF00-F83A-4CA3-80CE-AB5091FFBCEB}|Default">
-  <MonoDevelop.Ide.ItemProperties.ChangeOfPurchace PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ChangeOfPurchace/Program.cs">
+﻿<Properties StartupConfiguration="{2BF77B9F-9A03-4F96-94CF-379D833CBA36}|Default">
+  <MonoDevelop.Ide.ItemProperties.TryCatchTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TryCatchTest/Program.cs">
     <Files>
-      <File FileName="ChangeOfPurchace/Program.cs" Line="28" Column="47" />
+      <File FileName="TryCatchTest/Program.cs" Line="9" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ChangeOfPurchace" expanded="True">
-            <Node name="ChangeOfPurchace" expanded="True">
+          <Node name="TryCatchTest" expanded="True">
+            <Node name="TryCatchTest" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

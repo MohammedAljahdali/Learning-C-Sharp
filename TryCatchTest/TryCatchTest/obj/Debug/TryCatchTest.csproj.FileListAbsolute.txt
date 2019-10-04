@@ -1,0 +1,6 @@
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/TryCatchTest/TryCatchTest/bin/Debug/TryCatchTest.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/TryCatchTest/TryCatchTest/bin/Debug/TryCatchTest.pdb
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/TryCatchTest/TryCatchTest/obj/Debug/TryCatchTest.csprojAssemblyReference.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/TryCatchTest/TryCatchTest/obj/Debug/TryCatchTest.csproj.CoreCompileInputs.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/TryCatchTest/TryCatchTest/obj/Debug/TryCatchTest.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/TryCatchTest/TryCatchTest/obj/Debug/TryCatchTest.pdb
