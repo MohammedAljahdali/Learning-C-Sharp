@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{2BF77B9F-9A03-4F96-94CF-379D833CBA36}|Default">
-  <MonoDevelop.Ide.ItemProperties.TryCatchTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TryCatchTest/Program.cs">
+﻿<Properties StartupConfiguration="{7A2D9854-AE75-47BF-A7EC-A5BFF0E12A34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SortReverseAverage/Program.cs">
     <Files>
-      <File FileName="TryCatchTest/Program.cs" Line="17" Column="14" />
+      <File FileName="SortReverseAverage/Program.cs" Line="9" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TryCatchTest" expanded="True">
-            <Node name="TryCatchTest" expanded="True">
+          <Node name="SortReverseAverage" expanded="True">
+            <Node name="SortReverseAverage" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -22,4 +21,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SortReverseAverage FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
