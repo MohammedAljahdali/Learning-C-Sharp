@@ -1,0 +1,6 @@
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/SortReverseAverage/SortReverseAverage/bin/Debug/SortReverseAverage.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/SortReverseAverage/SortReverseAverage/bin/Debug/SortReverseAverage.pdb
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/SortReverseAverage/SortReverseAverage/obj/Debug/SortReverseAverage.csprojAssemblyReference.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/SortReverseAverage/SortReverseAverage/obj/Debug/SortReverseAverage.csproj.CoreCompileInputs.cache
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/SortReverseAverage/SortReverseAverage/obj/Debug/SortReverseAverage.exe
+/Users/mohammedaljahdali/Documents/Development/Projects/Learning-C#/SortReverseAverage/SortReverseAverage/obj/Debug/SortReverseAverage.pdb
